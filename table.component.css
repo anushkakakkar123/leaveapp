@@ -1,0 +1,33 @@
+.ag-theme-custom {
+  background-color: lemonchiffon;
+  font-family: sans-serif;
+  font-size: 14px; 
+  color: green;
+}
+
+ 
+
+/* Apply styles to the header cells */
+.custom-header {
+  background-color: blue; /* Light background color */
+  font-weight: bold; /* Bold font for headers */
+}
+
+
+/* Style odd rows differently for better readability */
+.ag-theme-custom .ag-row-odd {
+  background-color: blueviolet; /* Alternate row background color */
+}
+
+ 
+
+/* Style even rows with a different background color */
+.ag-theme-custom .ag-row-even {
+  background-color: #ffffff; /* White background for even rows */
+}
+
+.ag-theme-custom .ag-cell {
+  border-bottom: 1px solid #ccc; /* Add a horizontal border line */
+}
+
+
